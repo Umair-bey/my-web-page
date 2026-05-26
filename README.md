@@ -20,7 +20,7 @@ https://github.com/Umair-bey/my-web-page
 
 ## Website
 
-![Website Preview](screenshots/website.png)
+![Website Preview](screenshots/website-preview.png)
 
 ## Deployment Script
 
