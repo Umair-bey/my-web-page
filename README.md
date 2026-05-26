@@ -143,8 +143,7 @@ my-web-page/
     ├── website.png
     ├── deploy-script.png
     └── github-pages.png
-```
-
+    ├── ubantu-local-deployment
 ---
 
 # 🚀 Running the Project Locally
