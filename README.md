@@ -28,7 +28,7 @@ https://github.com/Umair-bey/my-web-page
 
 ## Ubuntu Local Deployment
 
-![Ubuntu Deployment](screenshots/ubuntu-local.png)
+![Ubuntu Local Deployment](screenshots/ubuntu-local-deployment.png)
 
 ## GitHub Pages
 
