@@ -26,6 +26,10 @@ https://github.com/Umair-bey/my-web-page
 
 ![Deploy Script](screenshots/deploy-script.png)
 
+## Ubuntu Local Deployment
+
+![Ubuntu Deployment](screenshots/ubuntu-local.png)
+
 ## GitHub Pages
 
 ![GitHub Pages](screenshots/github-pages.png)
